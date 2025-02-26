@@ -1,7 +1,3 @@
-Aqui está uma versão melhorada da documentação para o seu arquivo `README.md`, com informações mais claras e organizadas:
-
----
-
 # Documentação do Projeto
 
 ## Plano de Testes
